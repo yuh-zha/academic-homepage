@@ -9,9 +9,9 @@ title: Yuheng Zha
 role: Undergraduate Student
 bio: I'm a undergraduate student from Zhejiang University.
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Others
+  - Trajectory Prediction
+  - Computer Vision
+  - Social Network
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,4 +32,4 @@ highlight_name: false
 email: yhzha@zju.edu.cn
 ---
 
-Yuheng Zha is a undergraduate student of Zhejiang University. He is graduating in 2021 and is looking for a phd position.
+Yuheng Zha is a undergraduate student of Zhejiang University. He is graduating in 2021 and looking for a phd position.
