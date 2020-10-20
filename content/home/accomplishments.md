@@ -43,12 +43,12 @@ date_format = "Jan 2006"
   organization_url = "https://zju.edu.cn"
   title = "Zhongkong Cup Robot Competition 1st (of 42 teams)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2019-05-01"
   date_end = "2019-05-20"
   description = "Each group has to build a robot vehicle that moves a specific item to the shelves. Scores are based on the accuracy of the placement and the time spent."
 
-  [[item]]
+[[item]]
   organization = "COMAP"
   organization_url = "https://www.comap.com/undergraduate/contests/"
   title = "ICM Honorable Mention"
