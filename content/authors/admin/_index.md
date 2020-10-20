@@ -23,7 +23,7 @@ education:
   courses:
     - course: B.E. in Engineering
       institution: Zhejiang University
-      year: 2017-present
+      year: 2017-Present
 user_groups:
   - Researchers
   - Visitors
