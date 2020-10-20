@@ -29,7 +29,7 @@ education:
   courses:
   - course: B.E. in Engineering
     institution: Zhejiang University
-    year: 2017
+    year: 2017-present
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
