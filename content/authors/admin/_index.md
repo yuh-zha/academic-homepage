@@ -24,6 +24,7 @@ education:
     - course: B.E. in Engineering
       institution: Zhejiang University
       year: 2017-Present
+      major: Automation
 user_groups:
   - Researchers
   - Visitors
