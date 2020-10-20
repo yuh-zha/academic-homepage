@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Academic Excellence Award"
   url = ""
   certificate_url = ""
-  date_start = "2018, 2019, 2020"
-  date_end = ""
+  date_start = "2018-09-01"
+  date_end = "2020-09-01"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Zhejiang University Scholarship - Second Prize (8%)"
   url = ""
   certificate_url = ""
-  date_start = "2018, 2019"
-  date_end = ""
+  date_start = "2018-09-01"
+  date_end = "2019-09-01"
   description = ""
   
 [[item]]
