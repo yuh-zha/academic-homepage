@@ -13,5 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-pub1
-pub2
