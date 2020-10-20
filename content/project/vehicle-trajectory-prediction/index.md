@@ -1,5 +1,5 @@
 ---
-title: Vehicle Trajectory Prediction
+title: Interaction Aware Vehicle Trajectory Prediction
 subtitle: on INTERACTION  Dataset
 date: 2020-10-20T09:56:11.419Z
 summary: predict vehicles' trajectory in the INTERACTION dataset.
