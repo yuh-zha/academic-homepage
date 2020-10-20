@@ -42,6 +42,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+# icons from: fontawesome.com
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yhzha@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
@@ -74,5 +75,3 @@ user_groups:
 ---
 
 Yuheng Zha is a undergraduate student of Zhejiang University. He is graduating in 2021 and is looking for a phd position.
-
-interests: 
