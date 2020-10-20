@@ -21,7 +21,7 @@ social:
     link: https://github.com/yuh-zha/
 education:
   courses:
-    - course: B.E. in Engineering, Major\: Automation
+    - course: B.E. in Engineering, Major: Automation
       institution: Zhejiang University
       year: 2017-Present
 
