@@ -15,7 +15,7 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Zhejiang University
-  url: "zju.edu.cn"
+  url: "https://www.zju.edu.cn/english/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a undergraduate student from Zhejiang University.
