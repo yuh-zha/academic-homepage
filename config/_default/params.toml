@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".	
 email = "yhzha@zju.edu.cn"	
-phone = "8"	
+phone = "+86-17326084669"	
 
 # Address	
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )	
@@ -97,7 +97,7 @@ address = {street = "38 Zheda Rd", city = "Hangzhou", region = "Zhejiang", postc
 
 # Geographic coordinates	
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.	
-coordinates = {latitude = "30.1234", longitude = "120.6543"}	
+coordinates = {latitude = "30.2636", longitude = "120.1243"}	
 
 # Directions for visitors to locate you.	
 directions = ""	
