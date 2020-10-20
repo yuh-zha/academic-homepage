@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'yhzha@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yhzha@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,3 +74,5 @@ user_groups:
 ---
 
 Yuheng Zha is a undergraduate student of Zhejiang University. He is graduating in 2021 and is looking for a phd position.
+
+interests: 
