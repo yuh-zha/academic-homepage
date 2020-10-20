@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Undergraduate Student"
+  title = "Object Detection and Tracking using AprilTag"
   company = "Zhejiang University"
   company_url = "zju.edu.cn"
   location = "Hangzhou, China"
-  date_start = "2017-09-01"
-  date_end = ""
-  description = """
-  Majoring in: Automation
+  date_start = "2019-05-01"
+  date_end = "2020-04-01"
+  description = "Created a simulation environment in Gazebo and use a MAVROS node to control the quardroter. Localize the quardroter itself by AprilTag and keep it moving in front of the tag using PID algorithm. The programs have been tested on Intel Aero."
+  Advisor: Prof. Yu Zhang
   """
 
 [[experience]]
