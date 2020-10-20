@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Object Detection and Tracking using AprilTag"
   company = "Zhejiang University"
-  company_url = "zju.edu.cn"
+  company_url = "https://zju.edu.cn"
   location = "Hangzhou, China"
   date_start = "2019-05-01"
   date_end = "2020-04-01"
   description = "Created a simulation environment in Gazebo and use a MAVROS node to control the quardroter. Localize the quardroter itself by AprilTag and keep it moving in front of the tag using PID algorithm. The programs have been tested on Intel Aero."
-  Advisor: Prof. Yu Zhang
+  Advisor = "Prof. Yu Zhang"
   """
 
 [[experience]]
