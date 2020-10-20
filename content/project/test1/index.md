@@ -3,7 +3,7 @@ title: test1
 date: 2020-10-20T08:28:13.732Z
 draft: false
 featured: false
-external_link: k
+external_link: test1
 image:
   filename: featured
   focal_point: Smart
