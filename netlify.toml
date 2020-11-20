@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL && echo 'User-agent: *\nDisallow: /' > dist/robots.txt"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
