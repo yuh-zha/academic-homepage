@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "University of Notre Dame"
-  company_url = "https://nd.edu"
+  company_url = "https://www.nd.edu"
   location = "Notre Dame, IN, US"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
